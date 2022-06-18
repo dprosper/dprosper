@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://maisonprosper.com">about me</a> .
-    <a href="https://blog.maisonprosper.com">blog</a> .
+    <a href="https://blog.maisonprosper.com">blog</a>
 </p>
