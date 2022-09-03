@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,graphql,ts,go,swift,figma,github,githubactions,git,docker,kubernetes,openshift&perline=3" />
+    </a>
     <a href="https://maisonprosper.com">about me</a> .
     <a href="https://blog.maisonprosper.com">blog</a>
 </p>
