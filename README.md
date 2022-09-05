@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img src="https://maisonprosper.ngrok.io/ibmcloud" />
     <img src="https://skillicons.dev/icons?i=react,graphql,ts,go,swift,figma,github,githubactions,git,docker,kubernetes,openshift&perline=6" />
     <br/>
     <a href="https://maisonprosper.com">about me</a> .
